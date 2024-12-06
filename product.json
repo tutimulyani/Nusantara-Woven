@@ -1,0 +1,63 @@
+{
+    "id": 1, 
+    "name":"product 1", 
+    "img":"img/motif mawar", 
+    "price": 500000
+}
+
+
+{
+    "id": 2, 
+    "name":"product 2", 
+    "img":"img/product1", 
+    "price": 800000
+}
+
+{
+    "id": 3, 
+    "name":"product 3", 
+    "img":"img/product2", 
+    "price": 900000
+}
+
+{
+    "id": 4, 
+    "name":"product 4", 
+    "img":"img/motif teratai", 
+    "price": 400000
+}
+
+{
+    "id": 5, 
+    "name":"product 5", 
+    "img":"img/motif motif cenderawasih", 
+    "price": 600000
+}
+
+{
+    "id": 6, 
+    "name":"product 6", 
+    "img":"img/motif bunga matahari", 
+    "price": 600000 
+}
+
+{
+    "id": 7, 
+    "name":"product 7", 
+    "img":"img/motif kombinasi lereng manis", 
+    "price": 476000
+}
+
+{
+    "id": 8, 
+    "name":"product 8", 
+    "img":"img/motif motif lereng kujang", 
+    "price": 397000
+}
+
+{
+    "id": 9, 
+    "name":"product 9", 
+    "img":"img/motif motif lereng suriga kombinasi daun tales ", 
+    "price": 476000
+}
